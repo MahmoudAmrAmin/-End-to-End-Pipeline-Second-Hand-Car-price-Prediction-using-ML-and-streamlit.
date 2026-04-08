@@ -75,7 +75,7 @@ This project was built using a structured machine learning pipeline:
   Tested multiple gradient boosting frameworks (including XGBoost and CatBoost).
 
   Selected CatBoost as the final model due to its robust performance on datasets with heavy categorical features and its resistance to overfitting.
-# 💻 Technologies Used
+💻 Technologies Used
 Core: Python, Pandas, NumPy
 
 Machine Learning: Scikit-Learn, CatBoost, XGBoost
